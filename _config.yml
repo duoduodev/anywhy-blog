@@ -13,7 +13,7 @@ timezone: ''
 
 
 # URL
-url: https://duoduodev.github.io/Anywhy-blog/
+url: https://duoduodev.github.io/anywhy-blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
