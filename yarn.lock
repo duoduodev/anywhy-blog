@@ -127,7 +127,7 @@ chalk@^4.0.2:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-chokidar@^3.3.0, chokidar@^3.5.3:
+chokidar@^3.5.3:
   version "3.6.0"
   resolved "https://registry.npmjs.org/chokidar/-/chokidar-3.6.0.tgz"
   integrity sha512-7VT13fmjotKpGipCW9JEQAusEPE+Ei8nl6/g4FBAmIm0GOOLMua9NDDo/DWp0ZAxCr3cPq5ZpBqmPAQgDda2Pw==
@@ -311,11 +311,6 @@ ee-first@1.1.1:
   version "1.1.1"
   resolved "https://registry.npmjs.org/ee-first/-/ee-first-1.1.1.tgz"
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
-
-ejs@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmmirror.com/ejs/-/ejs-1.0.0.tgz"
-  integrity sha512-hK3tEqj0pP7UF5UHKNiRvm3zCaYk7UI4EBJ6wwN5O2qX1WdSovmqvUHEbNOJuglXzVkk/H0r7vgst3mVcQXrPA==
 
 ejs@^3.1.6:
   version "3.1.10"
@@ -556,13 +551,6 @@ hexo-pagination@3.0.0:
   resolved "https://registry.npmjs.org/hexo-pagination/-/hexo-pagination-3.0.0.tgz"
   integrity sha512-8oo1iozloZo7TojPVYg4IxL3SJKCBdSJ908fTlIxIK7TWJIKdYnQlW31+12DBJ0NhVZA/lZisPObGF08wT8fKw==
 
-hexo-pdf@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.npmmirror.com/hexo-pdf/-/hexo-pdf-1.1.1.tgz"
-  integrity sha512-oC5HMJ8KcJF7zTMe8l+BbXPY0myFMAbWiqQOAuEpR9ZegurAkjVAAT97rJl/idF3yIL5iJg5KXPX0tkjZd0tyA==
-  dependencies:
-    ejs "^1.0.0"
-
 hexo-renderer-ejs@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/hexo-renderer-ejs/-/hexo-renderer-ejs-2.0.0.tgz"
@@ -783,7 +771,7 @@ js-yaml-js-types@^1.0.0:
   dependencies:
     esprima "^4.0.1"
 
-js-yaml@^4.1.0, js-yaml@4.x:
+js-yaml@^4.1.0:
   version "4.1.0"
   resolved "https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.0.tgz"
   integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
@@ -1181,7 +1169,7 @@ strip-indent@^3.0.0:
   dependencies:
     min-indent "^1.0.0"
 
-stylus@*, stylus@^0.62.0:
+stylus@^0.62.0:
   version "0.62.0"
   resolved "https://registry.npmjs.org/stylus/-/stylus-0.62.0.tgz"
   integrity sha512-v3YCf31atbwJQIMtPNX8hcQ+okD4NQaTuKGUWfII8eaqn+3otrbttGL1zSMZAAtiPsBztQnujVBugg/cXFUpyg==
